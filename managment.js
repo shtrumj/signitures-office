@@ -16,6 +16,7 @@ console.log(md5[1].value)
 module.exports = {
     obj : obj,
     indicators : indicators
+    //test push
 }
 
 
